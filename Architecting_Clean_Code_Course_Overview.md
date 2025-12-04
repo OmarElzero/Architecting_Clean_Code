@@ -3,7 +3,7 @@
 ## Course Overview
 
 *   **Course Title:** The Software Architect's Gauntlet: From Clean Code to System Design
-*   **Duration:** 16 Sessions (64 hours total)
+*   **Duration:** 18 Sessions (72 hours total)
 *   **Format:** Intensive, project-based, and competitive team challenges
 *   **Target Audience:** Highly motivated developers aiming for senior/FAANG-level software engineering roles
 *   **Organized By:** DSC Cairo University Chapter
@@ -71,9 +71,15 @@ Each session is a 4-hour deep-dive workshop, culminating in a competitive team p
 *   **Session 15: State, Memento & Iterator — Managing State and Traversal**
     *   **Topics:** Using State to alter an object's behavior when its state changes, Memento to capture and restore an object's internal state, and Iterator to traverse containers.
     *   **Project:** *The Turn-Based Game Engine.* Build the core engine for a turn-based game, managing player turns (State) and game saves (Memento).
+*   **Session 16: Visitor & Interpreter — The Language of Your Code**
+    *   **Topics:** Deep dive into the Visitor pattern for adding external operations and the Interpreter pattern for processing languages.
+    *   **Project:** *The AST Calculator.* Build an Abstract Syntax Tree for mathematical expressions and use the Visitor or Interpreter pattern to calculate the results.
 
-### **Module 5: The Grand Design (System Design & Capstone)**
+### **Module 5: The Grand Design (System Design Fundamentals)**
 
-*   **Session 16: The System Design Interview — The Final Challenge**
-    *   **Topics:** CAP theorem, load balancing, caching, databases (SQL vs. NoSQL), message queues, and designing for scale.
-    *   **Project:** *The Capstone Project — Design a FAANG-Scale System.* Teams will be given a classic system design prompt (e.g., "Design Twitter," "Design a URL Shortener") and will have the entire session to design a solution, present it, and defend their architectural choices.
+*   **Session 17: Principles of Scalable Systems**
+    *   **Topics:** Vertical vs. Horizontal Scaling, Load Balancing, Caching Strategies (Client-side, CDN, Server-side), Database Replication and Sharding.
+    *   **Project:** *The URL Shortener.* Design a high-availability URL shortening service like Bitly, focusing on the data model and caching layers.
+*   **Session 18: The System Design Interview — The Final Gauntlet**
+    *   **Topics:** The complete system design interview lifecycle: clarifying requirements, estimating scale, designing the API, high-level design, and deep-diving into components. CAP Theorem, Message Queues, and final Q&A.
+    *   **Project:** *The Capstone Project — Design a FAANG-Scale System.* Teams will be given a classic system design prompt (e.g., "Design a Social Media Feed," "Design a Ride-Sharing App") and will have the entire session to design a solution, present it, and defend their architectural choices before a panel.
