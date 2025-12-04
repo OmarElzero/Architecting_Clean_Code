@@ -11,6 +11,20 @@
 
 ---
 
+## Weekly Cadence & Team Structure
+
+To simulate a professional engineering environment, this course is built around a rigorous weekly cycle and dedicated teamwork.
+
+*   **Team Formation:** At the start of the course, students will be divided into small teams. Each team will be assigned a dedicated instructor who will act as their mentor and lead reviewer for the duration of the course.
+*   **The Weekly Cycle:**
+    1.  **Main Session:** One of the 18 core sessions will be delivered, covering the main theoretical and practical concepts.
+    2.  **Project Challenge:** After the session, teams will receive their project assignment for the week.
+    3.  **Team Collaboration:** Teams will work together throughout the week to design, implement, and document their solution.
+    4.  **Weekly Report:** Each team will submit a concise report detailing their architectural decisions, the patterns they used, and the tradeoffs they considered.
+    5.  **Code Review Session:** The week culminates in a mandatory 2-3 hour online code review session, where the team presents their work to their instructor for a deep-dive critique and discussion. This is where the most critical learning happens.
+
+---
+
 ## The Gauntlet: A Series of Architectural Challenges
 
 Each session is a 4-hour deep-dive workshop, culminating in a competitive team project. Teams will be evaluated on design quality, implementation, and presentation.
